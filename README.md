@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **Manejos de salidas: LCD**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF4_22420152_DISENO_PRODUCTOS_ELECTRONICOS_MICROCONTROLADORES/#/](https://ecored-sena.github.io/CF4_22420152_DISENO_PRODUCTOS_ELECTRONICOS_MICROCONTROLADORES/#/)
 
 #
 
