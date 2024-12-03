@@ -73,7 +73,7 @@
       .fondo-color-sistema-p.py-5.px-4.px-lg-5(titulo="Modo <em>transflector</em>" :icono="require('@/assets/curso/temas/13.svg')")
         .row.justify-content-center
           .col-lg-8
-            h4.mb-4 Modo #[em transflector]
+            h4.mb-4 Modo transflector
             p.mb-0 Combina las características de los modos reflector y transmisor, permitiendo la visualización en diversas condiciones de iluminación. Utiliza tanto la luz ambiente como la luz artificial de fondo, adecuado para uso nocturno.
           .col-lg-3.order-first.order-lg-last
             figure.mb-4.mb-lg-0
