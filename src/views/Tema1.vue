@@ -70,7 +70,7 @@
           .col-lg-3.order-first.order-lg-last
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/10.svg",style="max-width: 215px;")
-      .fondo-color-sistema-p.py-5.px-4.px-lg-5(titulo="Modo <em>transflector</em>" :icono="require('@/assets/curso/temas/13.svg')")
+      .fondo-color-sistema-p.py-5.px-4.px-lg-5(titulo="Modo transflector" :icono="require('@/assets/curso/temas/13.svg')")
         .row.justify-content-center
           .col-lg-8
             h4.mb-4 Modo transflector
